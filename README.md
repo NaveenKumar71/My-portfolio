@@ -39,7 +39,7 @@ src/
 ## 🌐 Live Demo
 
 > You can view the deployed portfolio at:
-**[https://your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app)**  
+**[https://my-portfolio-mkckcf08c-naveenkumar71s-projects.vercel.app/](https://my-portfolio-mkckcf08c-naveenkumar71s-projects.vercel.app/)**  
 
 ---
 
