@@ -1,0 +1,103 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/stock.png",
+            "title": "Stock Market Investment platform",
+           "bodyText": "- Developed a stock market investment platform using Spring Boot\n- Displays real-time data\n- Secured and user-friendly application",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NaveenKumar71/SafeCryptoStocks"
+                }
+            ],
+            "tags" : [
+                "Spring Boot",
+                "Java", 
+                "Thymeleaf"
+            ]
+        },
+        {
+            "image" : "images/projects/donation.png",
+            "title": "Donation Managemnet Portal",
+            "bodyText": "- Developed a donation management portal using HTML and CSS\n- Allows donors to contribute food, clothing, money, and footwear\n- Simple and user-friendly interface for seamless donation experience",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NaveenKumar71/Donation-portal-project"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://donation-portal-project.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "php",
+                "MySQL"
+            ]
+        },
+        {
+            "image" : "images/projects/robot.png",
+            "title": "Web Based Robot Monotoring System ",
+            "bodyText": "- Developed a **web-based robot monitoring system** using **React** and **Webots** simulation\n- Tracks and analyzes **real-time factory data**\n- Enhances **operational visibility** and **efficiency**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NaveenKumar71/FactoryFlow-AI"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://factoryflowai.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Webot simulation",
+                "Bootstrap"
+            ]
+        },
+        {
+            "image" : "images/projects/taskmanager.png",
+            "title": "Task Manager",
+            "bodyText": "- A simple Task Tracker web app made with **React**.\n - Uses **simple storage** to get, add, delete or update tasks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NaveenKumar71/Task-Management-App"
+                },
+                 {
+                    "text": "Live",
+                    "href": "https://task-management-app-tawny-seven.vercel.app/"
+
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript"
+            ]
+        },
+         {
+            "image" : "images/projects/shipyard.png",
+            "title": "Shipyard website",
+            "bodyText": "- A simple and responsive **Shipyard Website** built using **HTML, CSS, and JavaScript**.\n- Showcases **shipyard services**, company information, and contact details with a clean and modern layout.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NaveenKumar71/Shipyard-website"
+                },
+                 {
+                    "text": "Live",
+                    "href": "https://shipyard-website-alpha.vercel.app/"
+
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+}

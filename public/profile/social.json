@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/naveenkumarb715/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/NaveenKumar71"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:bknaveen712005@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Nov 2022 - Present",
+            "cardTitle": "B.Tech, Information Technology",
+            "cardSubtitle":"K.Ramakrishnan college of Engineering, Samayapuram",
+            "cardDetailedText": "CGPA - 8.54",
+            "icon" : {
+                "src": "images/education/bklogo.png"
+            }
+        },
+        {
+            "title": "March - 2022",
+            "cardTitle": "High school",
+            "cardSubtitle":"Government Boy's Higher Secondary School, Mannachanallur",
+            "cardDetailedText": "Marks - 86.16%"
+        }
+    ]
+}

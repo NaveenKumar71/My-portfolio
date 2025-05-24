@@ -1,0 +1,39 @@
+{
+    "logo" : {
+        "source": "images/bklogo.jpg",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Achievements",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1b7IirrLLRprcuH-FJrDfSU5AfnpCnyUa/view?usp=drive_link",
+            "type": "link"
+        }
+    ]
+
+}

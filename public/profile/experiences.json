@@ -1,0 +1,47 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/Mr.Fashionate.jpg",
+            "title": "Mr.Fashionate'25 Award",
+           "bodyText": "- Secured Mr.Fashionate'25 award \n- At K.Ramakrihsnan college of Engineering"
+            
+        },
+        {
+            "image" : "images/projects/bestperformer.jpg",
+            "title": "Best Performer Award",
+            "bodyText": "- Presented a topic Neuralink\n- And Got first price in the event"
+           
+        },
+        {
+            "image" : "images/projects/Teamaward.jpg",
+            "title": "Best Team Award",
+           "bodyText": "- Led a team for a paper presentation and **secured first prize**"
+
+        },
+        {
+            "image" : "images/projects/paperpresentation.jpg",
+            "title": "Best Team Award",
+           "bodyText": "- Presented a paper in department of **MBA** and **secured first prize**"
+
+        }
+      
+    ],
+    "certifications" : [
+        {
+            "image" : "images/projects/microsoft.png",
+            "title": "Microsoft Certified: Azure Fundamentals"
+            
+        },
+        {
+            "image" : "images/projects/nptel.png",
+            "title": "Cloud Computing - NPTEL"
+           
+        },
+        {
+            "image" : "images/projects/java.png",
+            "title": "Programming with Java - Infosys"
+
+        }
+      
+    ]
+}
